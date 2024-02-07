@@ -1,0 +1,47 @@
+El prefijo 0o significa que el número que le sigue se denota como:
+--  
+
+
+El operador  ** :
+--
+
+
+
+1 / 1     
+--
+
+
+
+
+
+
+1 // 2 * 3
+--0
+
+
+
+
+
+x = 1
+y = 2
+z = x
+x = y
+y = z
+print(x, y)
+
+//
+
+
+
+
+
+<!-- ¿Cuál es el resultado del siguiente fragmento de código si el usuario ingresa dos líneas que contienen 2 y 4 respectivamente? -->
+x = int(input())
+y = int(input())
+
+x = x // y
+y = y // x
+
+print(y)
+
+//
